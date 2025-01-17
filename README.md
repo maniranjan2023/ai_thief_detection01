@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+<h1 align="center" id="title">ai_thief_detection</h1>
+
+<p align="center"><img src="" alt="project-image"></p>
+
+<p id="description">This a ai based thief detection using web cam and send capture image thief imgae to designated telegram bot in real time</p>
+
+<h2>🚀 Demo</h2>
+
+[https://www.loom.com/share/53b5e37d550a4118921a8dcdc93b5bca](https://www.loom.com/share/53b5e37d550a4118921a8dcdc93b5bca)
+
 First, run the development server:
 
 ```bash
